@@ -2,5 +2,6 @@
 team trello board:
 https://trello.com/b/hFwT3wcs/sleep-outside-team-11
 
-Members :
- Saidi,Diego,Hope,Alice,bob
+Members 
+Saidi,Hope,Diego
+

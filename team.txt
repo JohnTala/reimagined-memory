@@ -1,8 +1,6 @@
-Team Trello Board:
 
+team trello board:
 https://trello.com/b/hFwT3wcs/sleep-outside-team-11
 
-Teams Members:
- -Saidi Talatala
- -Diego Artemio Garcia
- -Hope Ini Udoka
+Members :
+ Saidi,Diego,Hope
